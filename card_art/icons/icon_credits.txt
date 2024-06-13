@@ -1,0 +1,11 @@
+flaticon.com
+
+Galaxy: https://www.flaticon.com/free-icon/galaxy_2252155?term=galaxy&page=1&position=2&origin=search&related_id=2252155
+Star: https://www.flaticon.com/free-icon/star_471658?term=star&page=1&position=22&origin=search&related_id=471658
+Nebula: https://www.flaticon.com/free-icon/cloud_2929984?term=cloud&page=1&position=4&origin=search&related_id=2929984
+Planet: https://www.flaticon.com/free-icon/planet_3335987?term=saturn&page=1&position=37&origin=search&related_id=3335987
+
+Image: https://www.flaticon.com/free-icon/image-gallery_3342137?term=image&page=1&position=1&origin=search&related_id=3342137
+Spectrum: https://www.flaticon.com/free-icon/triangular-prism_2695504?term=prism&related_id=2695504
+Time Series: https://www.flaticon.com/free-icon/time-left_66163?term=time&page=1&position=2&origin=search&related_id=66163
+Catalog: https://www.flaticon.com/free-icon/search_4230232?term=catalog&page=1&position=20&origin=search&related_id=4230232
