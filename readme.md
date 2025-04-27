@@ -1,20 +1,22 @@
 # MAST Match: The MAST Card Game
 
-Welcome to the MAST Match project! MAST Match is an astronomical card game themed around the [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu), the data archive which holds all the data for the Hubble Space Telescope, the James Webb Space Telescope, and many other missions. This game is fun for astronomers and the general public to play alike, and features real astronomical data stored in the MAST archive.
+Welcome to the MAST Match project! MAST Match is an astronomical card game themed around the [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu), the data archive which holds all the data for the Hubble Space Telescope, the James Webb Space Telescope, and many other missions. This game features real astronomical data stored in the MAST archive and is fun for scientists, students, and the general public to play.
 
 # <font color='red'>!!! This project is a work in progress !!!</font>
 <font color='red'>This repository is very incomplete. More will be coming eventually.</font> 
 
 ### Print at Home
 
+MAST Match is a **print at home** card game - available entirely for free as a PDF for you to print yourself at home!
+
 {link a pdf here so people can print their own copy}
 
 
 # How to Play
 
-MAST Match is a competitive card game in which each player curates their own data archive, like MAST, by collecting astronomical observations. 
+MAST Match is a competitive card game in which each player curates their own **data archive**, like MAST, by collecting astronomical observations using space telescopes! 
 
-The goal of the game is to make matching sets of Observation Cards, in order to complete your Science Goal Cards and earn points. Watch out though, because there's always a little chaos in astronomy - the unpredictable Chaos Cards can make or break your strategy! 
+The goal of the game is to make matching sets of **Observation Cards**, in order to complete your Science Goal Cards and earn points. Watch out though, because there's always a little chaos in astronomy - the unpredictable Chaos Cards can make or break your strategy! 
 
 This section includes the instructions and rules for how to play MAST match, describing the different types of cards and how play proceeds on each turn.
 
@@ -22,18 +24,13 @@ This section includes the instructions and rules for how to play MAST match, des
 
 There are four types of cards in the MAST Match game:
 
-- *Observation Cards*: These cards represent astronomical data. They each have a "target type" and a "data type", similar to the suits of a classical card deck.
-- *Science Goal Cards*: These cards represent research projects you are trying to complete to earn points. Each science goal requires a different combinaton of Observation Cards to complete.
-- *Telescope Cards*: Telescope cards are used to collect Observation Cards. 
-- *Chaos Cards*: These cards add a little unpredictability to the game. They can be good or bad, so use with caution!
-
-The back of each card type looks like this:
-
-Observation Cards | Science Goal Cards | Telescope Cards | Chaos Cards |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![image](card_art/final_cards/BACK_observation.png) | ![image](card_art/final_cards/BACK_goal.png) | ![image](card_art/final_cards/BACK_telescope.png) | ![image](card_art/final_cards/BACK_chaos.png)
-
-There are also a handful of "Rules" cards (with a gray back) for quick reference, but those are not used in play.
+Card Back Example | Card Front Example | Card Type and Description | 
+:-------------------------:|:-------------------------:|:-------------------------|
+|![image](card_art/final_cards/card_backs/BACK_observation.png)| ![image](card_art/final_cards/obs_cards/OBS_crab.png) | <h2>Observation Cards</h2> These cards represent astronomical data. They each have a "target type" and a "data type", similar to the suits and numbers of a classical card deck.|
+|![image](card_art/final_cards/card_backs/BACK_telescope.png)| ![image](card_art/final_cards/telescope_cards/TEL_hst.png) |  <h2>Telescope Cards</h2> Telescope cards are used to collect observation cards and complete your science goals. They each have specific wavelength(s) they can observe in. |
+|![image](card_art/final_cards/card_backs/BACK_goal.png) | ![image](card_art/final_cards/goal_cards/GOAL_OpticalSkySurvey.png) | <h2>Science Goal Cards</h2> These cards represent research projects you are trying to complete to earn points. Each science goal requires a different combinaton of wavelength and Observation Cards to complete. | 
+|![image](card_art/final_cards/card_backs/BACK_chaos.png)| ![image](card_art/final_cards/chaos_cards/CHAOS_TargetofOpportunity.png) | <h2>Chaos Cards</h2> These cards add a little unpredictability to the game. They can be good or bad, so use with caution! | 
+|![image](card_art/final_cards/card_backs/BACK_rules.png)| ![image](card_art/final_cards/rule_cards/RULES_target_types.png) |  <h2>Rules Cards</h2> Quick-reference cards to remind you of the rules, but not used in play |
 
 
 ### Observation Cards
@@ -43,30 +40,26 @@ The majority of the cards in the deck are *Observation Cards*, which represent a
 - *Target Type* What type of astronomical object this card represents: galaxy, star, nebula, or planet.
 -  *Data Type*: What type of data file this card represents: an image, a spectrum, a time series, or a catalog.
 
-<center>
-
 Target Types             |  Data Types
 :-------------------------:|:-------------------------:
-![image](card_art/final_cards/RULES_target_types.png)  |  ![image](card_art/final_cards/RULES_data_types.png)
-
-</center>
+![image](card_art/final_cards/rule_cards/RULES_target_types.png)  |  ![image](card_art/final_cards/rule_cards/RULES_data_types.png) |
 
 Some example observation cards are displayed below:
 
 Observation Card | Observation Card | Observation Card | Observation Card
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![image](card_art/final_cards/OBS_crab.png)  |  ![image](card_art/final_cards/OBS_phat.png)  |  ![image](card_art/final_cards/OBS_saturn.png) | ![image](card_art/final_cards/OBS_cepheid.png) 
-Target Type: Nebula  |  Target Type: Galaxy |  Target Type: Planet |   Target Type: Star
-Data Type: Image  |  Data Type: Catalog |  Data Type: Timeseries | Data Type: Timeseries
+![image](card_art/final_cards/obs_cards/OBS_crab.png)  |  ![image](card_art/final_cards/obs_cards/OBS_phat.png)  |  ![image](card_art/final_cards/obs_cards/OBS_saturn.png) | ![image](card_art/final_cards/obs_cards/OBS_cepheid.png) 
+Target Type: **Nebula**  |  Target Type: **Galaxy** |  Target Type: **Planet** |   Target Type: **Star**
+Data Type: **Image**  |  Data Type: **Catalog** |  Data Type: **Timeseries** | Data Type: **Timeseries**
 
-The goal of the game is to create matches of different combinations of targets and data, which you will earn points for with your Science Goal Cards.
+The goal of the game is to create matches of different combinations of targets and data, which you will earn points for your Science Goal Cards.
 
 
 ### Science Goal Cards
 
 Science Goal Cards are how you earn points towards winning the game. Each Science Goal Card is worth between 3-6 points, displayed in the center of the card. The requirements to complete the science goal are depicted on the bottom, using the same symbols of "Target Type" and "Data Type" as on the Observation Cards.
 
-If the requirement symbols are not touching, they can be completed by separate cards. If the symbols are touching, you must use one card that has both requirements - for example, "The Dark Side" science goal shown below has to be completed using two Observation cards, which are both images of nebula. A spectrum of a nebula or a timeseries would not count towards this goal.
+If the requirement symbols are not touching, they can be completed by separate cards. If the symbols are touching, you must use one card that has both requirements - for example, "The Dark Side" science goal shown below has to be completed using two Observation cards, which are both images of nebula. A spectrum of a nebula would NOT count towards this goal.
 
 Each Science Goal also has a wavelength, which determines which telescope card must be used to gather the observations. For example, the Ultravriolet "A Star is Born" card has three "star" symbols on it, and can be completed by collecting a set of any three star observation cards with the Hubble Space Telescope, or another telescope in play which has ultraviolet capabilities.
 
@@ -74,8 +67,8 @@ Some example Science Goal Cards are shown below.
 
 Science Goal Card | Science Goal Card | Science Goal Card 
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](card_art/final_cards/GOAL_All%20Sky%20Survey.png)  |  ![image](card_art/final_cards/GOAL_A%20Star%20Is%20Born.png)   |  ![image](card_art/final_cards/GOAL_The%20Dark%20Side.png) 
-This card requires one of each target type to complete and is worth 6 points |  This card requires any three *star* cards to complete and is worth 3 points. |  This card requires two images of nebulas to complete, and is worth 5 points.
+![image](card_art/final_cards/goal_cards/GOAL_OpticalSkySurvey.png) |  ![image](card_art/final_cards/goal_cards/GOAL_TheDarkSide.png) | ![image](card_art/final_cards/goal_cards/GOAL_GalacticHotspots.png) 
+This card requires one of each target type to complete and is worth 3 points |  This card requires two cards to complete, both images of nebulae, and is worth 5 points. |  This card requires three cards to complete: one image of a galaxy, and any two other catalogs.
 
 ### Telescope Cards
 
@@ -83,10 +76,10 @@ The telescope cards allow you to gather data and collect an Observation Card to 
 
 Some example telescope cards are displayed below:
 
-Telescope Card | Telescope Card  | Telescope Card 
-:-------------------------:|:-------------------------:|:-------------------------:
-![image](card_art/final_cards/TEL_hst.png)  |  ![image](card_art/final_cards/TEL_jwst.png)   |  ![image](card_art/final_cards/TEL_roman.png)
-HST can be used to complete *Optical* or *Ultraviolet* goals. |  JWST can be used to complete *Infrared* science goals.  |  Roman can be used to complete *Infrared* or *Optical* science goals.
+| Telescope Card | Telescope Card  | Telescope Card |
+| :-------------------------:|:-------------------------:|:-------------------------:|
+| ![image](card_art/final_cards/telescope_cards/TEL_hst.png)  |  ![image](card_art/final_cards/telescope_cards/TEL_jwst.png)   |  ![image](card_art/final_cards/telescope_cards/TEL_roman.png)
+HST can be used to complete *Optical* or *Ultraviolet* goals. |  JWST can be used to complete *Infrared* science goals.  |  Roman can be used to complete *Infrared* or *Optical* science goals. | 
 
 
 ### Chaos Cards
@@ -99,7 +92,7 @@ Some example chaos cards are displayed below:
 
 Chaos Card | Chaos Card  | Chaos Card 
 :-------------------------:|:-------------------------:|:-------------------------:
- ![image](card_art/final_cards/CHAOS_Nobel%20Prize.png) |  ![image](card_art/final_cards/CHAOS_Target%20of%20Opportunity.png)   |  ![image](card_art/final_cards/CHAOS_Proposal%20Deadline.png)
+ ![image](card_art/final_cards/chaos_cards/CHAOS_NobelPrize.png) |  ![image](card_art/final_cards/chaos_cards/CHAOS_TargetofOpportunity.png) |  ![image](card_art/final_cards/chaos_cards/CHAOS_ProposalDeadline.png)
 
 
 ## Table Setup
@@ -123,6 +116,15 @@ Shuffle the Observation Cards and put the deck face-down near the center of the 
 [number of telescopes depends on number of players??]
 
 Place the telescope cards face-up in the center of the table.
+
+| Number of Players | Number of Telescope Cards | Recommended Telescope Cards |
+|:-------------------------:|:-------------------------:|:-------------------------|
+| 2 Players | 3 | Hubble, James Webb, Roman
+| 3 Players | 4 | Hubble, James Webb, Roman, Galex
+| 4 Players | 5 | Hubble, James Webb, Roman, Galex, Tess
+| 5 Players | 6 | Hubble, James Webb, Roman, Galex, Tess, IUE, Kepler,
+| 6 Players | 7 | Hubble, James Webb, Roman, Galex, Tess, IUE, Kepler, Spitzer
+
 
 ### Setup Diagram
 
@@ -189,8 +191,13 @@ The first person to earn 10 points by completing their science goals wins the ga
 ## About MAST
 The [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu)...
 
-## Card Game Authors
-MAST Match was created by...
-
 ## Image Credits
 ...
+
+## Card Game Authors
+MAST Match was created by a small team during a "Hack Day Event" focused on developing new Outreach materials for MAST.
+
+### Have feedback or suggestions?
+
+MAST Match is still in its playtest stage, so we're always looking for things to improve! If you have comments, feedback, or just want to share your experience playing the game, please reach out to jimig@stsci.edu !
+
