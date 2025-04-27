@@ -2,14 +2,20 @@
 
 Welcome to the MAST Match project! MAST Match is an astronomical card game themed around the [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu), the data archive which holds all the data for the Hubble Space Telescope, the James Webb Space Telescope, and many other missions. This game features real astronomical data stored in the MAST archive and is fun for scientists, students, and the general public to play.
 
-# <font color='red'>!!! This project is a work in progress !!!</font>
-<font color='red'>This repository is very incomplete. More will be coming eventually.</font> 
+# <font color='red'>!!! This project is still a work in progress !!!</font>
+<font color='red'>This game is still under development and this repository is very incomplete. More will be coming soon!</font> 
 
 ### Print at Home
 
-MAST Match is a **print at home** card game - available entirely for free as a PDF for you to print yourself at home!
+MAST Match is a **print at home** card game - available entirely for free as a PDF for you to print yourself at home! Click the links in the table below to download a PDF and print your own copy:
 
-{link a pdf here so people can print their own copy}
+
+| PDF Link(s) | Description |
+|:--------:|:--------|
+|[MAST-Match_Collated.pdf](printable_pdf/MAST-Match_Collated.pdf)| Collated file with card fronts and backs in the same PDF on alternating pages. Recommended for printers capable of double-sided printing. |
+|[MAST-Match_CardFronts.pdf](printable_pdf/MAST-Match_Collated.pdf) [MAST-Match_CardBacks.pdf](printable_pdf/MAST-Match_Collated.pdf)| Card fronts and backs split into individual PDFs for convienience. Recommended for printers which do not support double-sided printing.  
+
+Print these files on standard letter-sized (8.5"x11") paper at 100% scale. We recommend printing on cardstock paper for best results.
 
 
 # How to Play
@@ -18,14 +24,14 @@ MAST Match is a competitive card game in which each player curates their own **d
 
 The goal of the game is to make matching sets of **Observation Cards**, in order to complete your Science Goal Cards and earn points. Watch out though, because there's always a little chaos in astronomy - the unpredictable Chaos Cards can make or break your strategy! 
 
-This section includes the instructions and rules for how to play MAST match, describing the different types of cards and how play proceeds on each turn.
+This section includes the instructions and rules for how to play MAST Match, describing the different types of cards and how play proceeds on each turn.
 
 ## Types of Cards
 
 There are four types of cards in the MAST Match game:
 
 Card Back Example | Card Front Example | Card Type and Description | 
-:-------------------------:|:-------------------------:|:-------------------------|
+:---------:|:--------:|:-------------------------------------|
 |![image](card_art/final_cards/card_backs/BACK_observation.png)| ![image](card_art/final_cards/obs_cards/OBS_crab.png) | <h2>Observation Cards</h2> These cards represent astronomical data. They each have a "target type" and a "data type", similar to the suits and numbers of a classical card deck.|
 |![image](card_art/final_cards/card_backs/BACK_telescope.png)| ![image](card_art/final_cards/telescope_cards/TEL_hst.png) |  <h2>Telescope Cards</h2> Telescope cards are used to collect observation cards and complete your science goals. They each have specific wavelength(s) they can observe in. |
 |![image](card_art/final_cards/card_backs/BACK_goal.png) | ![image](card_art/final_cards/goal_cards/GOAL_OpticalSkySurvey.png) | <h2>Science Goal Cards</h2> These cards represent research projects you are trying to complete to earn points. Each science goal requires a different combinaton of wavelength and Observation Cards to complete. | 
@@ -66,7 +72,7 @@ Each Science Goal also has a wavelength, which determines which telescope card m
 Some example Science Goal Cards are shown below.
 
 Science Goal Card | Science Goal Card | Science Goal Card 
-:-------------------------:|:-------------------------:|:-------------------------:
+| :-------------:|:-------------:|:-------------:|
 ![image](card_art/final_cards/goal_cards/GOAL_OpticalSkySurvey.png) |  ![image](card_art/final_cards/goal_cards/GOAL_TheDarkSide.png) | ![image](card_art/final_cards/goal_cards/GOAL_GalacticHotspots.png) 
 This card requires one of each target type to complete and is worth 3 points |  This card requires two cards to complete, both images of nebulae, and is worth 5 points. |  This card requires three cards to complete: one image of a galaxy, and any two other catalogs.
 
@@ -77,7 +83,7 @@ The telescope cards allow you to gather data and collect an Observation Card to 
 Some example telescope cards are displayed below:
 
 | Telescope Card | Telescope Card  | Telescope Card |
-| :-------------------------:|:-------------------------:|:-------------------------:|
+| :-------------:|:-------------:|:-------------:|
 | ![image](card_art/final_cards/telescope_cards/TEL_hst.png)  |  ![image](card_art/final_cards/telescope_cards/TEL_jwst.png)   |  ![image](card_art/final_cards/telescope_cards/TEL_roman.png)
 HST can be used to complete *Optical* or *Ultraviolet* goals. |  JWST can be used to complete *Infrared* science goals.  |  Roman can be used to complete *Infrared* or *Optical* science goals. | 
 
@@ -185,11 +191,10 @@ If you cannot, or do not want to take the "Pick a Telescope" or "Observing Phase
 
 The first person to earn 10 points by completing their science goals wins the game.
 
-
 # Credits
 
 ## About MAST
-The [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu)...
+The [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu) is...
 
 ## Image Credits
 ...
