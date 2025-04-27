@@ -32,7 +32,7 @@ Requirements,Independent Likelihood,Point Value,wavelength,Card Name,Description
 "star+catalog, star+catalog",,5,IR,Mapping the Galaxy,Map the Milky Way with large catalogs of stars,
 "planet+timeseries, planet+timeseries",,5,UV,Asteroid Impact,Observe an meteoroid hitting a planet with time series data of our Solar System,
 "planet+image, planet+image",,5,UV,Planet Formation,Study planet formation by observing planets in our solar system,
-"planet+spectrum, planet+spectrum",,5,IR,Cloudy With A Chance of Methane,Study the chemical composition of clouds on other planets,
+"planet+spectrum, planet+spectrum",,5,IR,Methane Clouds, Cloudy with a chance of Methane! Study the chemical composition of clouds on other planets,
 "planet+catalog, planet+catalog",,5,O,Drake Equation,Estimate The Number of Habitable Earth-like Planets In The Milky Way by cataloging planets,
 # ,,,,,,
 # "One Specifc Card, two others",,,,,,
