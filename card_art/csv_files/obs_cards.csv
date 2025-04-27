@@ -1,0 +1,49 @@
+objtype,dtype,title,image,url
+galaxy,image,Whirlpool Galaxy,whirlpool.png,https://hubblesite.org/contents/media/images/2001/10/1038-Image.html
+galaxy,image,Stephan's Quintet,stephan.png,https://www.nasa.gov/image-article/nasas-webb-sheds-light-galaxy-evolution-black-holes/
+galaxy,image,MACS-0416,macs416.png,https://webbtelescope.org/contents/media/images/2023/146/01HDHATAQXM532HCNQN6BQ79BC?news=true
+galaxy,spectrum,Sombrero Galaxy,sombrero.png,https://hubblesite.org/contents/media/images/2003/28/1415-Image.html
+galaxy,spectrum,Bullet Cluster,bullet.png,https://hubblesite.org/contents/news-releases/2006/news-2006-39.html
+galaxy,spectrum,Andromeda Galaxy,andromeda.png,
+galaxy,timeseries,Galaxy Merger ZW-096,zw096.png,https://jwst.nasa.gov/content/science/galaxies.html
+galaxy,timeseries,Messier 101,m101.png,galex
+galaxy,timeseries,Deep Field,jwstdeepfield.png,https://webbtelescope.org/contents/news-releases/2022/news-2022-038
+galaxy,catalog,M81 and M82,m81m82.png,galex
+galaxy,catalog,NGC 1087,ngc1087.png,https://archive.stsci.edu/hlsp/phangs
+galaxy,catalog,Andromeda Galaxy,phat.png,https://hubblesite.org/contents/media/images/2015/02/3479-Image.html?news=true
+nebula,spectrum,Orion Nebula,orion.png,https://hubblesite.org/contents/media/images/2006/01/1826-Image.html
+nebula,spectrum,Pillars of Creation,pillars.png,https://www.nasa.gov/universe/nasas-webb-takes-star-filled-portrait-of-pillars-of-creation/
+nebula,spectrum,Ring Nebula,ringnebula.png,https://webbtelescope.org/contents/media/images/01H82G0PP38P6PBXQ11BEVSMY0
+nebula,image,Carina Nebula,carina.png,https://webbtelescope.org/news/first-images/gallery/zoomable-image-carina-nebula
+nebula,image,Crab Nebula,crab.png,https://esahubble.org/images/heic0515a/
+nebula,image,Dark Nebula,dark.png,https://esahubble.org/images/potw2340a/
+nebula,timeseries,Cassiopeia A,cass_a.png,https://www.spitzer.caltech.edu/image/ssc2005-14c1-hubble-spitzer-and-chandra-image-of-cassiopeia-a
+nebula,timeseries,Cat's Eye Nebula,cateye.png,https://hubblesite.org/contents/media/images/3882-Image?keyword=NGC%205189
+nebula,timeseries,Horsehead Nebula,horsehead.png,https://esahubble.org/images/heic1307a/
+nebula,catalog,Butterfly Nebula,butterfly.png,https://hubblesite.org/contents/media/images/3875-Image?keyword=butterfly
+nebula,catalog,Tarantula Nebula,tarantula.png,https://hubblesite.org/contents/media/images/2016/10/3716-Image.html
+nebula,catalog,Bubble Nebula,bubble.png,https://hubblesite.org/contents/media/images/2016/13/3725-Image.html
+star,image,Herbig-Haro Object,herbigharo.png,https://webbtelescope.org/contents/media/images/2023/131/01H53089T1FMZZN48VD4Z73FRC
+star,image,TW Hydrae,twhydrae.png,
+star,image,Apep Star System,apep.png,https://webbtelescope.org/contents/media/images/2020/57/4777-Image?Type=Observations&Category=05-stars&page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97
+star,spectrum,The Sun,thesun.png,https://science.nasa.gov/resource/the-solar-spectrum/
+star,spectrum,AG Carinae,agcarinae.png,https://hubblesite.org/contents/media/images/2021/017/01F3N8X6NC69Y1ME5AXW3AGFG8?Type=Observations&Type=Photographs&Topic=104-stars-and-nebulas
+star,spectrum,Sagittarius C,sagc.png,https://webbtelescope.org/contents/media/images/2023/148/01HF7NQKFCWPXHB5MT68G7Z2ED
+star,timeseries,Cepheid Variable,cepheid.png,https://esahubble.org/images/heic1323a/
+star,timeseries,Wolf Rayet Star,wolfrayet.png,https://webbtelescope.org/contents/media/images/01GEJB2906TM9VR2FSJ4TFMNQM
+star,timeseries,CW Leonis,cwleonis.png,https://hubblesite.org/contents/media/images/2021/059/01FJW7YS4R5WJNFY1H3VTF56EZ?Type=Observations&Type=Photographs&Topic=104-stars-and-nebulas
+star,catalog,Westerlund 2,westerlund2.png,https://esahubble.org/images/heic1509a/
+star,catalog,NGC 376,ngc376.png,https://esahubble.org/images/potw2249a/
+star,catalog,Hercules Cluster,hercules.png,https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/
+planet,image,Mars,mars.png,
+planet,image,Jupiter,jupiter.png,
+planet,image,Neptune,neptune.png,https://hubblesite.org/contents/media/images/2020/59/4787-Image?Topic=101-solar-system&keyword=neptune
+planet,spectrum,Exoplanet GJ-386b,g386b.png,https://www.nasa.gov/centers-and-facilities/goddard/webb-finds-water-vapor-but-from-a-rocky-planet-or-its-star/
+planet,spectrum,Martian Atmosphere,marsatmos.png,https://esawebb.org/images/first-observations-mars-2/
+planet,spectrum,Exoplanet WASP-39b,wasp39b.png,https://webbtelescope.org/contents/media/images/2022/060/01GJ3Q66DTT4HPMDCVNC9GXH5Y
+planet,timeseries,Saturn,saturn.png,https://esawebb.org/images/first-observations-mars-2/
+planet,timeseries,Exoplanet LHS-475b,lhs475b.png,https://webbtelescope.org/contents/media/images/2023/102/01GNVXWS67QNTC7Z10FN2CJB1H?news=true
+planet,timeseries,Shoemaker Levy,shoelevy.png,https://hubblesite.org/contents/media/images/1995/15/275-Image.html?Topic=101-solar-system&keyword=shoemaker%20levy%209
+planet,catalog,Moons of Jupiter,jupitermoons.png,https://www.astronomy.com/observing/the-galilean-moons-of-jupiter-and-how-to-observe-them/
+planet,catalog,Expolanet Catalog,exoplanets.png,https://exoplanets.nasa.gov/blog/1469/all-these-worlds-are-yours/
+planet,catalog,Exoplanet Kepler-16b,kepler16b.png,https://photojournal.jpl.nasa.gov/catalog/PIA14724

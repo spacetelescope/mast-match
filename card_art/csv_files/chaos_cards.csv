@@ -1,0 +1,27 @@
+Card Name,act,good or bad?,layout,Effect
+Servicing Mission,later,good, ,"Your telescope gets an upgrade! When you play this card during an Observing Action, you can pick two cards from the Observation Row instead of one"
+Nobel Prize,immediate,good,pvalue=5,"You win the Nobel Prize for your resarch. When you play this card, immediately score 5 points."
+All-Nighter,later,good, ,"You decide to sacrifice sleep to get extra work done. Play this card at the beginning of one of your turns. You may take one additional action on your turn, for a total of two actions."""
+Too many tabs open,immediate,bad, ,"You can't find your observation data, you lose one card"
+Long Exposure,later,good, ,"When you play this card, choose two observations from the visible sky row, and then skip your next turn."
+Corrupted Data,Later,good, ,"When another player tries to collect an Observation Card, play this card to immediately make them discard it. They do not get any points for that Observation Card, and must still return the Telescope they used to the Telescope Row."
+Public Data,later,good, ,Trade a card a with another player
+Target of Opportunity,immediate,good,icons,"This card is a wildcard. Treat this as any target type, data type, and wavelength, and immediately play it towards one of your science goals."
+Target of Opportunity,immediate,good,icons,"This card is a wildcard. Treat this as any target type, data type, and wavelength, and immediately play it towards one of your science goals."
+Dual Telescopes,later,good, ,"On your next turn, choose two telescopes. You may use both for observations for the duration of that turn. Discard this card."
+Open Source Collaboration,later,good, ,Mirror an opponent's card (?)
+Propertiary Data,immediate,good, ,"Look through the Observation Card draw pile and choose any card you would like. Play it towards any one of your science goals, but hide it underneat this card so the other players can't tell what it is. Re-shuffle the deck once you're done"
+Hire a Graduate Student,later,good, ,"Look through the draw pile and choose any card you want. Add the selected card to one of your science goals, and then discard this card and reshuffle the draw pile."
+Guide star acquisition fails,later,bad, ,immediately discard the next telescope card that you play
+Telescope Malfunction,immediate,bad, ,"If you have a telescope card, return it to the Telescope Row now without collecting any observations."
+High Solar Winds,immediate,bad, ,high radiation causes your observation to fail; skip your next turn
+Grant Funding Runs Out,immediate,bad, ,Discard a science goal (which one is TBD) and draw a new one 
+Code Doesn't Compile,immediate,bad, ,"Choose one of your science goals, and place this card on top. You need one more card than usual to complete this science goal (for example, if you need 4 cards to complete the goal, you now need 5)"
+Juptyer Notebook,immediate,good, ,"Choose one of your science goals, and place this card on top. You need one less card than usual to complete this science goal (for example, if you need 4 cards to complete the goal, you now only need 3)"
+Conference Meeting,later,good, ,Choose a card from another players observation row and replace it with one of your own
+Micrometeroid Strike,immediate,bad, ,"A telescope's mirror was just hit by a micrometeroid! Place this card on top of one of the telescopes in the Telescope Row. No one can use this telescope until this card is discarded, which happens at the end of your next turn."
+Proposal Deadline,immediate,bad, ,A big observing proposal is due this week! You skip your next turn.
+Cloud Computing,later,good, ,
+Press Release,later,good, ,
+Deprecated Code in IDL,immediate,bad, ,
+Not Enough Coffee,immediate,bad, ,
