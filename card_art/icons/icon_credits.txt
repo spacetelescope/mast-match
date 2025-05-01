@@ -1,4 +1,4 @@
-flaticon.com
+The icons on these cards are from [Flaticon.com](https://www.flaticon.com) and used under the free for personal and commercial use Flaticon License.
 
 Galaxy: https://www.flaticon.com/free-icon/galaxy_2252155?term=galaxy&page=1&position=2&origin=search&related_id=2252155
 Star: https://www.flaticon.com/free-icon/star_471658?term=star&page=1&position=22&origin=search&related_id=471658
@@ -9,3 +9,7 @@ Image: https://www.flaticon.com/free-icon/image-gallery_3342137?term=image&page=
 Spectrum: https://www.flaticon.com/free-icon/triangular-prism_2695504?term=prism&related_id=2695504
 Time Series: https://www.flaticon.com/free-icon/time-left_66163?term=time&page=1&position=2&origin=search&related_id=66163
 Catalog: https://www.flaticon.com/free-icon/search_4230232?term=catalog&page=1&position=20&origin=search&related_id=4230232
+
+Telescope: https://www.flaticon.com/free-icon/hubble-space-telescope_4630969?term=hubble&page=1&position=2&origin=search&related_id=4630969
+Chaos: https://www.flaticon.com/free-icon/chaos_16942735?term=chaos&page=1&position=1&origin=search&related_id=16942735
+Observation: https://www.flaticon.com/free-icon/space_2127892?term=space&page=1&position=7&origin=tag&related_id=2127892
