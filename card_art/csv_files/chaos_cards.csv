@@ -1,27 +1,32 @@
-Card Name,act,good or bad?,layout,Effect
-Servicing Mission,later,good, ,"Your telescope gets an upgrade! When you play this card during an Observing Action, you can pick two cards from the Observation Row instead of one"
-Nobel Prize,immediate,good,pvalue=5,"You win the Nobel Prize for your resarch. When you play this card, immediately score 5 points."
-All-Nighter,later,good, ,"You decide to sacrifice sleep to get extra work done. Play this card at the beginning of one of your turns. You may take one additional action on your turn, for a total of two actions."""
-Too many tabs open,immediate,bad, ,"You have too many tabs open and can't find where you saved your data! Choose one observation card form any of your science goals, and return that card to the bottom of the deck."
-Long Exposure,later,good, ,"When you play this card, choose two observations from the visible sky row using the same telescope, and then skip your next turn."
-Corrupted Data,later,bad, ,"When another player tries to collect an Observation Card, play this card to immediately make them discard it. They do not get any points for that Observation Card, and must still return the Telescope they used to the Telescope Row."
-Public Data,later,good, ,"Steal any observation card from another player. You can play the new card on any of your Science Goals Immediately, regardless of wavelength."
-Target of Opportunity,immediate,good,icons,"This card is a wildcard. Treat this as any target type, data type, and wavelength, and immediately play it towards one of your science goals."
-Target of Opportunity,immediate,good,icons,"This card is a wildcard. Treat this as any target type, data type, and wavelength, and immediately play it towards one of your science goals."
-Dual Telescopes,later,good, ,"On your next turn, choose two telescopes. You may use both for observations for the duration of that turn. Discard this card."
-Open Source Collaboration,later,good, ,"Mirror an opponent's card (?)"
-Propertiary Data,immediate,good, ,"Look through the Observation Card draw pile and choose any card you would like. Play it towards any one of your science goals, but hide it underneath this card so the other players can't tell what it is. Re-shuffle the deck once you're done"
-Hire a Student,later,good, ,"Hire a graduate student to get more work done! Look through the draw pile and choose any card you want. Add the selected card to one of your science goals, and then discard this card and reshuffle the draw pile."
-Guiding Failure,later,bad, ,"The telescope failed to acquire guide star. If you have a telescope card currently in play, return it to the telescope row immediately."
-Telescope Malfunction,immediate,bad, ,"If you have a telescope card, return it to the Telescope Row now without collecting any observations."
-High Solar Winds,immediate,bad, ,"High radiation causes your observation to fail; skip your next turn. Keep this card in front of you as a reminder, and discard it at the end of your next turn."
-Grant Funding Ending,immediate,bad, ,"Your grant funding runs out, forcing you to start on a new project. Discard one science goal of your choice (and any observation cards linked to it), and draw a new Science Goal to replace it. "
-Code Doesn't Compile,immediate,bad, ,"Choose one of your science goals, and place this card on top. You need one more card than usual to complete this science goal (for example, if you need 4 cards to complete the goal, you now need 5)"
-Juptyer Notebook,immediate,good, ,"Choose one of your science goals, and place this card on top. You need one less card than usual to complete this science goal. For example, if you need 4 cards to complete the goal, you now only need 3."
-Conference Meeting,later,good, ,Choose a card from another players observation row and replace it with one of your own
-Micrometeroid Strike,immediate,bad, ,"A telescope's mirror was just hit by a micrometeroid! Place this card on top of one of the telescopes in the Telescope Row. No one can use this telescope until this card is discarded, which happens at the end of your next turn."
-Proposal Deadline,immediate,bad, ,"A big observing proposal is due this week! You skip your next turn. Keep this card in front of you as a reminder, and discard it at the end of your next turn."
-Cloud Computing,later,good,pvalue=+1,"Thanks to the power of Cloud Computing, you are able to complete your research more quickly. All of your Science Goals are now worth one additional point."
-Press Release,later,good,pvalue=2,"Host a press release to tell the world about your new result! When you complete your next science goal, reveal this card to immediately score an additional 2 points."
-Deprecated Code,later,bad, ,"When another player tries to collect an Observation Card, play this card to immediately make them discard it. They do not get any points for that Observation Card, and must still return the Telescope they used to the Telescope Row."
-Not Enough Coffee,immediate,bad, ,
+Card Name,act,good or bad?,layout,Effect,number
+Target of Opportunity,immediate,good,icons=?,"This card is a wildcard. Treat this as any target type, data type, and wavelength, and immediately play it towards one of your Science Goals.",4
+Servicing Mission,later,good, ,"Your telescope gets an upgrade! When you play this card during an Observing Action, you can pick two cards from the Observation Row instead of one.",1
+Nobel Prize,immediate,good,pvalue=5,"You win the Nobel Prize for your resarch. When you play this card, immediately score 5 points.",1
+All-Nighter,later,good, ,"You decide to sacrifice sleep to get extra work done. Play this card at the beginning of one of your turns. You may take one additional action on your turn, for a total of two actions.",1
+Too Many Tabs Open,immediate,bad, ,"You have too many tabs open and can't find where you saved your data! Choose one observation card from any of your Science Goals, and return that card to the bottom of the draw pile.",1
+Long Exposure,later,good, ,"When you play this card during an Observing Action, choose two observations from the Visible Sky row using the same telescope, and then skip your next turn.",2
+Public Data,later,good,pvalue=1,"Choose any Observation Card that another player has on one of their Science Goals. Take that card from them, and play it on one of your own goals. In exchange, give them this card to replace the old observation, which still counts towards their Science Goal. They gain extra 1 science point for sharing their data!" ,2
+Dual Telescopes,later,good,icons=telescope.png,"Play this card while Picking a Telescope; you may pick two telescopes instead of one during this turn, and use them both for observations on subsequent turns.",1
+Propertiary Data,immediate,good, ,"Look through the Observation Card draw pile and choose any card you would like. Play it towards any one of your Science Goals, but hide it underneath this card so the other players can't tell what it is. Re-shuffle the deck once you're done",1
+Hire a Student,later,good, ,"Hire a graduate student to get more work done! Look through the draw pile and choose any card you want. Add the selected card to one of your Science Goals (regardless of wavelength), and then discard this card and reshuffle the draw pile.",1
+Guiding Failure,immediate,bad, ,"The telescope failed to acquire guide star. If you have a telescope card currently in your hand, return it to the telescope row immediately without collecting an observation.",1
+Telescope Malfunction,later,bad, ,"When another player tries to collect an Observation Card, play this card to immediately make them discard it. They do not get any points for that Observation Card, and must still return the Telescope they used to the Telescope Row.",1
+High Solar Winds,immediate,bad, ,"High radiation caused by solar winds causes your observation to be rescheduled; Discard all cards currently in the Visible Sky Row and replace them with new cards.",2
+Grant Funding Ending,immediate,bad, ,"Your grant funding runs out, forcing you to start on a new project. Discard one Science Goal of your choice (and any observation cards linked to it), and draw a new Science Goal to replace it.",1
+Deprecated Code,immediate,bad, ,"Choose one of your Science Goals and place this card next to it. You need one more card than usual to complete this Science Goal (for example, if you need 4 cards to complete the goal, you now need 5)",1
+Juptyer Notebook,immediate,good, ,"Choose one of your Science Goals, and place this card on top. You need one less card than usual to complete this Science Goal. For example, if you need 4 cards to complete the goal, you now only need 3.",1
+Micrometeroid Strike,immediate,bad, ,"A telescope's mirror was just hit by a micrometeroid! Place this card on top of one of the telescopes in the Telescope Row. No one can use this telescope until this card is discarded, which happens at the end of your next turn.",1
+Proposal Deadline,immediate,bad, ,"A big observing proposal is due this week! You skip your next turn. Keep this card in front of you as a reminder, and discard it at the end of your next turn.",2
+Cloud Computing,later,good,pvalue=+1,"Thanks to the power of cloud computing, you are able to complete your research more quickly. All of your Science Goals are now worth one additional point.",1
+Press Release,later,good,pvalue=2,"Host a press release to tell the world about your new result! When you complete your next Science Goal, reveal this card to immediately score an additional 2 points.",1
+Corrupted Data,later,bad, ,"When another player tries to collect an Observation Card, play this card to immediately make them discard it. They do not get any points for that Observation Card, and must still return the Telescope they used to the Telescope Row.",1
+Not Enough Coffee,immediate,bad, ,"You do not have enough coffee to get your work done: skip your next turn. Keep this card in front of you as a reminder, and discard it at the end of your next turn.",1
+Extra Cup of Coffee,later,good, ,"You found an extra cup of coffee! Play this card at the beginning of one of your turns. You may take one additional action on your turn, for a total of two actions.",1
+Too Much Coffee,later,good, ,"You have had too much coffee, and are feeling extremely productive but will crash later. Play this card at the beginning of one of your turns. You may take one additional action on your turn, for a total of two actions. Then skip your next turn.",1
+Inspiration Strikes,immediate,good, ,"You have a great idea for a new project! Draw a new Science Goal Card and place it face-up in front of you, adding it to your active Science Goals.",1
+Open Source Collaboration,later,good, ,"Trade one Science Goal Card with another player. All observation cards (and points) associated with that goal are also traded.",1
+Code Doesn't Compile,later,bad, ,"Play this card on another player to make them skip their next turn. They can keep this card in front of them as a reminder, and discard it at the end of their next turn",1
+New Discovery,immediate,good, ,"You make a new discovery! The next observation card you collect can be added to any of your Science Goals, ignoring all requirements for object type, target type, or wavelength.",1
+Conference Meeting,later,good,pvalue=1,"You present your results at a conference. Play this card on a Science Goal Card of your choice. That Science Goal is now worth 1 extra point.",2
+Coauthor Request,later,good, pvalue=1,"When another player completes a Science Goal, play this card to become a Coauthor on their paper and earn 1 extra science point for yourself.",2
+Follow-up Observation,later,good, pvalue=1,"Play this card when you take the Observation Action to play the Observation Card you collect on someone else's Science Goal. When you do, you earn 1 science point for helping them out.",1
