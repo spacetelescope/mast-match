@@ -13,7 +13,7 @@ MAST Match is a **print at home** card game - available entirely for free as a P
 | PDF Link(s) | Description |
 |:--------:|:--------|
 |[MAST-Match_Collated.pdf](printable_pdf/MAST-Match_Collated.pdf)| Collated file with card fronts and backs in the same PDF on alternating pages. Recommended for printers capable of double-sided printing. |
-|[MAST-Match_CardFronts.pdf](printable_pdf/MAST-Match_Collated.pdf) [MAST-Match_CardBacks.pdf](printable_pdf/MAST-Match_Collated.pdf)| Card fronts and backs split into individual PDFs for convienience. Recommended for printers which do not support double-sided printing.  
+|[MAST-Match_CardFronts.pdf](printable_pdf/MAST-Match_Collated.pdf) [MAST-Match_CardBacks.pdf](printable_pdf/MAST-Match_Collated.pdf)| Card fronts and backs split into individual PDFs for convienience. Recommended for printers which do not support double-sided printing.
 
 Print these files on standard letter-sized (8.5"x11") paper at 100% scale. We recommend printing on cardstock paper for best results.
 
@@ -65,7 +65,7 @@ The goal of the game is to collect matches of different combinations of targets 
 
 Science Goal Cards are how you earn points towards winning the game. Each Science Goal Card is worth between 3-6 points, displayed in the center circle of the card. The requirements to complete the science goal are depicted on the bottom, using the same symbols of "Target Type" and "Data Type" as on the Observation Cards.
 
-If the requirement symbols are not touching, they can be completed by separate cards. If the symbols are touching, you must use one card that has both requirements - for example, "The Dark Side" science goal shown below has to be completed using two Observation cards, which are both images of nebula. A spectrum of a nebula would NOT count towards this goal.
+If the requirement symbols are not touching, they can be completed by separate cards. If the symbols are touching, you must use one card that has both requirements - for example, "The Dark Side" Science Goal shown below has to be completed using two Observation cards, which are both images of nebula. A spectrum of a nebula would NOT count towards this goal.
 
 Each Science Goal also has a wavelength, which determines which telescope card must be used to gather the observations. For example, the "Optical Sky Survey" card has four symbols on it, one of each Target Type, and can be completed by collecting 4 observation cards with a telescope in play which has optical capabilities, such as the Hubble Space Telescope.
 
@@ -125,7 +125,7 @@ Shuffle the Observation Cards and put the deck face-down near the center of the 
 | 5 Players | 10 | 
 | 6 Players | 12 | 
 
-At any point in the game, if none of the cards in the Visible Sky Row are applicable for any player's Science Goals, you can discard the entire row and replace it with new cards.
+At any point in the game, if none of the cards in the Visible Sky Row are applicable for any player's open Science Goals, you can discard the entire row and replace it with new cards.
 
 ### Set up the Telescope row
 
@@ -155,7 +155,7 @@ At the end of set up, the table should look something like this:
 
 ## How to Win
 
-The first player to win 10 science points by completing their Science Goal Cards wins the game.
+The first player to earn **20 science points** by completing their Science Goal Cards wins the game.
 
 ## Starting the Game
 
@@ -184,14 +184,19 @@ If you have a Telescope Card in front of you, you can use it to collect an Obser
 
 Choose an Observation Card from the Visible Sky Row, and place it face-up next to the Science Goal you are collecting it for. The wavelength of the Science Goal must match the wavelength of the Telescope Card. The symbols on the Observation card must match one or more of the requirements for the Science Goal.
 
-When you collect an observation, place the Telescope Card back into the Telescope Row. You must pick a telescope on your next turn before gathering another observation.
+Immediately replace the card you took from the Visible Sky with a new one from the draw pile, so the Visible Sky Row always has the same number of cards.
 
- Immediately replace the card with a new one from the draw pile, so the Visible Sky Row always has the same number of cards.
+When you collect an observation, return the Telescope Card back into the Telescope Row. You must pick a telescope on your next turn before gathering another observation.
+
 
 
 #### Completing a Science Goal
 
-Whenever you complete a science goal, immediately draw a new Science Goal Card and place it in front of you. There is no penalty for uncompleted science goals at the end of the game.
+Whenever you complete a science goal, announce it to the other players and immediately draw a new Science Goal Card and place it in front of you. 
+
+Once a Science Goal has been completed, the observations associated with that goal are immune to the effects of Chaos Cards and can no longer be traded or stolen.
+
+There is no penalty for uncompleted science goals at the end of the game.
 
 
 ### 3. Draw a Chaos Card
@@ -200,28 +205,30 @@ If you cannot, or do not want to take the "Pick a Telescope" or "Observing Phase
 
 "Play Later" Chaos Cards can be played at any time, even if it is not your turn.
 
-
 ## Winning the Game
 
-The first person to earn 10 points by completing their science goals wins the game.
+The first person to earn **20 science points** by completing their Science Goals (and/or getting bonus points from Chaos Cards) wins the game!
+
 
 # Credits
 
+MAST Match was created by a small team during a "Hack Day Event" focused on developing new Outreach materials for MAST.
+
 ## About MAST
-The [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu) is an astronomical data archive focused on the optical, ultraviolet, and near-infrared. MAST hosts data from over a 20 missions including Webb, Hubble, TESS, Kepler, and in the future Roman.
+The [Mikulski Archive for Space Telesopes (MAST)](https://archive.stsci.edu) is an astronomical data archive focused on the optical, ultraviolet, and near-infrared. MAST hosts data from over 20 missions including Webb, Hubble, TESS, Kepler, and in the future Roman.
 
 ## Image Credits
-All of the images used in this game are real data from MAST! You can find them yourself and download full-resolution versions of the images at:
+All of the images used in this game are real data from MAST! There are a few cards which feature artist's renditions, but still represent real data from NASA missions hosted at MAST. You can find all source images, learn more about them, and download full-resolution versions of the images at:
 
 - http://hubblesite.org/
 - https://webbtelescope.org/
 
-The icons on these cards are from [Flaticon.com](https://www.flaticon.com) and used under the free for personal and commercial use Flaticon License.
+This game features data from the HST, JWST, and GaLEX missions, obtained from the MAST data archive at the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS 5–26555.
 
-## Card Game Authors
-MAST Match was created by a small team during a "Hack Day Event" focused on developing new Outreach materials for MAST.
+The icons in this game are from [Flaticon.com](https://www.flaticon.com) and used under the free for personal and commercial use Flaticon License.
+
 
 ### Have feedback or suggestions?
 
-MAST Match is still in its playtest stage, so we're always looking for things to improve! If you have questions, comments, feedback, or just want to share your experience playing the game, please reach out to jimig@stsci.edu !
+MAST Match is still in its playtest stage, so we're actively looking for things to improve! If you have questions, comments, feedback, or just want to share your experience playing the game, please reach out to jimig@stsci.edu !
 
