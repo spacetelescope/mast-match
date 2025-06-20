@@ -144,10 +144,11 @@ The table below is a recommendation, but if you want to shake things up, feel fr
 
 ### Setup Diagram
 
-At the end of set up, the table should look something like this:
+At the end of set up, the table should look something like this for a 4-player game:
 
-*[helpful diagram here]*
+![image](card_art/setup_diagram.png) 
 
+Checklist: 
 - Each player should have 3 science goals face-up in front of them. 
 - In the center of the table, there should be 3 facedown draw piles (Chaos Cards, Observation Cards, and Science Goal Cards).
 - There should be a number of Observation cards face-up next to the draw pile. The number of cards should be equal to twice the number of players.
@@ -155,7 +156,7 @@ At the end of set up, the table should look something like this:
 
 ## How to Win
 
-The first player to earn **20 science points** by completing their Science Goal Cards wins the game.
+The first player to earn **15 science points** by completing their Science Goal Cards wins the game.
 
 ## Starting the Game
 
@@ -178,7 +179,7 @@ Choose a telescope from the telescope row and place it face-up in front of you. 
 
 You can only have one telescope card at a time. If you do not use a telescope card within 3 turns, it goes back into the Telescope Row automatically.
 
-### 2. Observing Phase
+### 2. Observe Data
 
 If you have a Telescope Card in front of you, you can use it to collect an Observation Card from the Visible Sky Row and play it towards one of your Science Goals.
 
@@ -207,7 +208,7 @@ If you cannot, or do not want to take the "Pick a Telescope" or "Observing Phase
 
 ## Winning the Game
 
-The first person to earn **20 science points** by completing their Science Goals (and/or getting bonus points from Chaos Cards) wins the game!
+The first person to earn **15 science points** by completing their Science Goals (and/or getting bonus points from Chaos Cards) wins the game!
 
 
 # Credits
